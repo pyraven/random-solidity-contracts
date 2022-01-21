@@ -14,6 +14,6 @@ contract MyEvents {
     }
 
     function questionSelf() public pure returns(string memory) {
-    return "Message from future self, don't buy this pseudo NFT. It will be a huge mistake.";
+        return "Message from future self, don't buy this pseudo NFT. It will be a huge mistake.";
     }
 }
